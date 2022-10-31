@@ -1,0 +1,4 @@
+requests
+pillow
+pygame
+mettre bin dans env variable
